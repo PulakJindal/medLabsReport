@@ -1,0 +1,1 @@
+In this task I performed the network scanning the nmap (a network scanning CLI tool in Linux)
