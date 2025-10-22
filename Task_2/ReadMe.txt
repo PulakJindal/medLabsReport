@@ -1,0 +1,1 @@
+Analysed a suspicious email.
