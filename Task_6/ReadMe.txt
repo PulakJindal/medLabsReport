@@ -1,0 +1,1 @@
+Analysed what makes a password strong and why should we use a strong password
