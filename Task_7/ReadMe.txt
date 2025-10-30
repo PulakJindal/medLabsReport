@@ -1,0 +1,1 @@
+This shows my browser extensions analysis if they are suspicious or not.
